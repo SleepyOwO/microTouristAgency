@@ -1,0 +1,149 @@
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.staticwebassets.endpoints.json
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.exe
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.deps.json
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.runtimeconfig.json
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.pdb
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\DnsClient.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Snappier.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.csproj.AssemblyReference.cache
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.AssemblyInfoInputs.cache
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.AssemblyInfo.cs
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.csproj.CoreCompileInputs.cache
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\scopedcss\bundle\TouristAgencyAPI.styles.css
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristA.74018445.Up2Date
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\refint\TouristAgencyAPI.dll
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.pdb
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.genruntimeconfig.cache
+C:\Users\dimag\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\ref\TouristAgencyAPI.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.staticwebassets.endpoints.json
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.exe
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.deps.json
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.runtimeconfig.json
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.pdb
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\DnsClient.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Snappier.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.csproj.AssemblyReference.cache
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.AssemblyInfoInputs.cache
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.AssemblyInfo.cs
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\scopedcss\bundle\TouristAgencyAPI.styles.css
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristA.74018445.Up2Date
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\refint\TouristAgencyAPI.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.pdb
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.genruntimeconfig.cache
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\ref\TouristAgencyAPI.dll
+C:\Users\kiril\Desktop\3 курс 2 семестр\Микросервисы\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.staticwebassets.endpoints.json
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.exe
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.deps.json
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.runtimeconfig.json
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\TouristAgencyAPI.pdb
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\DnsClient.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Snappier.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.csproj.AssemblyReference.cache
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.AssemblyInfoInputs.cache
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.AssemblyInfo.cs
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\scopedcss\bundle\TouristAgencyAPI.styles.css
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristA.74018445.Up2Date
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\refint\TouristAgencyAPI.dll
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.pdb
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\TouristAgencyAPI.genruntimeconfig.cache
+C:\Users\kiril\Desktop\TouristAgencyNew\TouristAgencyAPI\obj\Debug\net9.0\ref\TouristAgencyAPI.dll
